@@ -11,7 +11,7 @@ struct rectangle
     int breadth;
 };
 void changeLeangth(struct rectangle *p,int l){
-    P->length=l;   
+    p->length=l;   
 }
 int main(){
     struct rectangle r;
@@ -21,3 +21,4 @@ int main(){
     changeLeangth(&r,20);
     return 0;
 }
+

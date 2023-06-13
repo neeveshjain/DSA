@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Welcome to my Daily DSA Practice Repo! 📚💻
+Welcome to Daily DSA Practice Repo! 📚💻
 
 ![DSA Practice](dsa_practice_image.jpg)
 

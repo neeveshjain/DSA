@@ -4,7 +4,7 @@
 
 Welcome to Daily DSA Practice Repo! 📚💻
 
-![DSA Practice](dsa_practice_image.jpg)
+### 💻 DSA Practice 
 
 This repository is dedicated to my daily practice of Data Structures and Algorithms (DSA) problems. I believe in the power of consistent practice to enhance my problem-solving skills and improve my understanding of fundamental algorithms.
 
